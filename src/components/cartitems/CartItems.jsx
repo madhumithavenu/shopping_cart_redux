@@ -1,6 +1,6 @@
 import React from "react";
-import CartItem from "./CartItem";
 import "./Cart.css";
+import CartItem from "../cartitem/cartitem";
 const CartItems = function() {
   return (
     <div className="cart-container">
